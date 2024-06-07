@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    color:black;
+    text-align:center;
+}
+
+
+nav {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 1em 0;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content:center ;
+}
+
+nav ul li {
+    margin: 0 1em;
+}
+
+nav ul li a {
+    color: green;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+main{ padding: 1.2em 0;
+}
+   
+
+h1 {
+     color:darkblue;
+    font-size: 3em;
+    margin: 0.5em 0;
+}
+h4{
+     color:white;
+     margin:0.8em;
+}
+h3{
+    color:brown;
+    margin:0.8em;
+}
+p {
+    
+    font-size: 1.2em;
+     margin:0.8em;
+}
+ol li{
+margin:0.8em;
+font-size: 1.2em;
+    list-style:i;
+    justify-content:center ;
+}
+li a{
+    color:brown;
+}
